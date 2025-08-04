@@ -44,7 +44,56 @@ Open the provided web chat or embed-page link in your browser.
 
 Start a conversation: Ask fitness questions, request meal ideas, or motivation.
 
-# Example Prompts
-<img width="929" height="734" alt="[Screenshot 2025-07-31 180353" src="https://github.com/user-attachments/assets/02919562-e9d6-4259-b393-2618c49e5876](https://github.com/uditnarayan1234/Fitness-Buddy-IBM-cloud-/blob/faae23807f0754eff06630e1bbd111543318842b/Suggested_4_prompts.png)" />
+# 🖼️ Screenshots
+
+# Example Prompts...
+![image alt](https://github.com/uditnarayan1234/Fitness-Buddy-IBM-cloud-/blob/b821e6f401ac46b91c7fac983a0bd3ec75d2d0a2/Suggested_4_prompts.png)
+
+# Tools used...
+![image alt](https://github.com/uditnarayan1234/Fitness-Buddy-IBM-cloud-/blob/b821e6f401ac46b91c7fac983a0bd3ec75d2d0a2/Tools_used.png)
+
+#  Deployment & Preview...
+![image alt](https://github.com/uditnarayan1234/Fitness-Buddy-IBM-cloud-/blob/b821e6f401ac46b91c7fac983a0bd3ec75d2d0a2/DeployedAgent_preview.png)
+
+# ☁️ IBM Cloud Services Used
+ . Watsonx.ai Studio
+ 
+ . IBM Granite Model
+
+ . Watsonx Vector Index
+ 
+ . IBM Cloud Lite Account
+ 
+ . IBM Cloud IAM
+ 
+ . IBM Cloud Object Storage
+
+ # How It Works
+Built in IBM watsonx.ai Prompt Lab: Uses prompt templates to define bot personality and answer style.
+
+No dataset/training required: Relies on IBM foundation models.
+
+Customisable: Update system prompt to tailor advice or tone.
+
+# Do:
+
+Ask for fitness tips, workouts, healthy meals, and motivation.
+
+Phrase questions clearly.
+
+Use the Preview or Webchat interface for best experience.
+
+# Don’t:
+
+Enter sensitive personal data or medical questions.
+
+Treat the agent as a replacement for certified medical/professional advice.
+
+Expect tracking or memory of past chats (unless extended for that).
+
+# Acknowledgements
+Created as part of IBM SkillsBuild Academic Hackathon. Powered by IBM Cloud Watsonx AI Studio & Prompt Lab.
+
+
 
 
