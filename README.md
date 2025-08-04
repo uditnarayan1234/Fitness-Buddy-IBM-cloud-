@@ -14,5 +14,36 @@ In today’s fast-paced world, many individuals struggle to maintain consistent 
 ## The Solution:
 Fitness Buddy AI is an intelligent chatbot designed to act as a personal virtual fitness coach. It offers tailored workout routines, nutrition suggestions, motivational support, and real-time Q&A capabilities. Using Natural Language Processing (NLP) and machine learning, the chatbot understands user goals, preferences, and fitness levels to deliver interactive, personalized, and goal-oriented advice.
 
- 
+ ## 🧠 Technologies Used
+
+- IBM Watsonx.ai Studio
+- IBM Granite Foundation Model (LLM)
+- Vector Index for Retrieval-Augmented Generation
+- PDF documents from RBI/NPCI & other related sourses
+- NLP (Natural Language Processing)
+- IBM Cloud Object Storage
+  
+# Usage
+You can interact with Fitness Buddy via:
+
+IBM watsonx.ai Prompt Lab (test prompts directly)
+
+Deployed Web Chat Widget (if integrated)
+
+REST Endpoint (send requests via curl/Postman/custom app)
+
+1. Prompt Lab Testing
+Open your Fitness Buddy asset in IBM watsonx.ai Prompt Lab.
+
+Type a question in the “Test” or “Preview” section.
+
+Get AI-generated tips immediately.
+
+2. Web Chat Preview (if deployed)
+Open the provided web chat or embed-page link in your browser.
+
+Start a conversation: Ask fitness questions, request meal ideas, or motivation.
+
+# Example Prompts
+
 
