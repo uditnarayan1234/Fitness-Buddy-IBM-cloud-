@@ -45,5 +45,6 @@ Open the provided web chat or embed-page link in your browser.
 Start a conversation: Ask fitness questions, request meal ideas, or motivation.
 
 # Example Prompts
+![image alt](https://github.com/uditnarayan1234/Fitness-Buddy-IBM-cloud-/blob/faae23807f0754eff06630e1bbd111543318842b/Suggested_4_prompts.png)
 
 
