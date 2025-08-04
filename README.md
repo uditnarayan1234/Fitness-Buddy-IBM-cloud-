@@ -4,6 +4,4 @@ An AI-powered assistant designed to help users understand and navigate digital f
 
 ---
 
-![ai](ai.jpg)
-
----
+![Fitness Buddy AI](assets/fitness-ai-photo.png)
