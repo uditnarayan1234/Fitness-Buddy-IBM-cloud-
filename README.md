@@ -4,4 +4,4 @@ An AI-powered assistant designed to help users understand and navigate digital f
 
 ---
 
-![Fitness Buddy AI](assets/fitness-ai-photo.png)
+![Fitness Buddy AI](https://github.com/uditnarayan1234/Fitness-Buddy-IBM-cloud-/blob/2ee9926b61d6f6627cae6ec16f244249c77923bc/Screenshot%202025-08-04%20085108.png)
